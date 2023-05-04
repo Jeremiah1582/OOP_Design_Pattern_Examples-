@@ -1,9 +1,32 @@
 The OOP_Design_Pattern_Examples folder contains a collection of code examples showcasing different object-oriented design patterns in Python. The design patterns are divided into three categories: Creational, Structural, and Behavioral.
 
-The Creational design patterns focus on creating objects in a structured and flexible way. The folder includes examples of the Factory Method pattern, Abstract Factory pattern, Builder pattern, Singleton pattern, and Prototype pattern.
+The Creational design patterns focus on creating objects in a structured and flexible way. The folder aims to includes examples of the:
+- Factory Method pattern, 
+- Abstract Factory pattern, 
+- Builder pattern, 
+- Singleton pattern, 
+- Prototype pattern.
 
-The Structural design patterns provide a way to organize and structure classes and objects to form larger structures. The folder includes examples of the Adapter pattern, Bridge pattern, Composite pattern, Decorator pattern, Facade pattern, Flyweight pattern, and Proxy pattern.
+The Structural design patterns provide a way to organize and structure classes and objects to form larger structures. The folder aims to includes examples of the:
+- Adapter pattern, 
+- Bridge pattern, 
+- Composite pattern, 
+- Decorator pattern, 
+- Facade pattern, 
+- Flyweight pattern, 
+- Proxy pattern.
 
-The Behavioral design patterns are used to manage algorithms, communication, and responsibility between objects. The folder includes examples of the Template Method pattern, Chain of Responsibility pattern, Command pattern, Interpreter pattern, Iterator pattern, Mediator pattern, Memento pattern, Observer pattern, State pattern, Strategy pattern, Visitor pattern, and more.
+The Behavioral design patterns are used to manage algorithms, communication, and responsibility between objects. The folder aims to includes examples of the:
+- Template Method pattern, 
+- Chain of Responsibility pattern, 
+- Command pattern, 
+- Interpreter pattern, 
+- Iterator pattern, 
+- Mediator pattern, 
+- Memento pattern, 
+- Observer pattern, 
+- State pattern, 
+- Strategy pattern, 
+- Visitor pattern, and more.
 
 Each code example in the folder is well documented and includes an explanation of the pattern being demonstrated, its use cases, and benefits. By studying and implementing these design patterns, developers can improve the quality, flexibility, and scalability of their object-oriented code
