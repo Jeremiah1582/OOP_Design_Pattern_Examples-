@@ -30,3 +30,19 @@ The Behavioral design patterns are used to manage algorithms, communication, and
 - Visitor pattern, and more.
 
 Each code example in the folder is well documented and includes an explanation of the pattern being demonstrated, its use cases, and benefits. By studying and implementing these design patterns, developers can improve the quality, flexibility, and scalability of their object-oriented code
+
+
+Why learn about Design Patterns?
+Knowing about design patterns can be beneficial in several ways:
+
+1) Standardization: Design patterns provide a standardized approach to common software design problems, which can make it easier for developers to communicate and collaborate on projects.
+
+2) Reusability: By using design patterns, developers can reuse proven solutions to common problems rather than starting from scratch. This can save time and effort in the development process.
+
+3) Maintainability: Design patterns can help make code more modular and easier to maintain. This can be especially important as projects grow in size and complexity.
+
+4) Performance: Some design patterns are specifically designed to improve performance or reduce resource usage. Using these patterns can help optimize code and improve overall system performance.
+
+5) Industry standards: Many design patterns have become industry standards, and knowledge of these patterns can be valuable for developers seeking to stay up-to-date with current best practices and trends.
+
+Overall, understanding and using design patterns can lead to more efficient and effective software development, better code quality, and improved project outcomes because it helps to standardise code in projects.
