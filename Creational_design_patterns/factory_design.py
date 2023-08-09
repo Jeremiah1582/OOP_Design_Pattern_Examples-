@@ -11,7 +11,7 @@ class Product:
         self.price = price
 
 class ProductFactory:
-    def create_product(self, name, price): # create_produc creates a new Product object with the given name and price.
+    def create_product(self, name, price): # create_product creates a new Product object with the given name and price.
         return Product(name, price)
     
 

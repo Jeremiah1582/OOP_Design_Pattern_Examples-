@@ -29,6 +29,7 @@ if __name__ == '__main__':
     observable = Observable()
     observer1 = Observer()
     observer2 = Observer()
+    
     observable.register_observer(observer1)
     observable.register_observer(observer2)
     observable.notify_observers("Hello world!") # Received message: Hello world! (x2)
